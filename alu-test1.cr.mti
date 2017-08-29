@@ -1,0 +1,75 @@
+C:/KPU_OoOE/src/cpu_src/decode_RV.v {1 {vlog -work work -sv +incdir+C:/KPU_OoOE/src/cpu_src -stats=none C:/KPU_OoOE/src/cpu_src/decode_RV.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module decode
+
+Top level modules:
+	decode
+
+} {} {}} C:/KPU_OoOE/src/cpu_src/alu_functional_unit.v {1 {vlog -work work -sv +incdir+C:/KPU_OoOE/src/cpu_src -stats=none C:/KPU_OoOE/src/cpu_src/alu_functional_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module alu_functional_unit
+
+Top level modules:
+	alu_functional_unit
+
+} {} {}} C:/KPU_OoOE/src/cpu_src/gpr_RV.v {1 {vlog -work work -sv +incdir+C:/KPU_OoOE/src/cpu_src -stats=none C:/KPU_OoOE/src/cpu_src/gpr_RV.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module gpr
+
+Top level modules:
+	gpr
+
+} {} {}} C:/KPU_OoOE/src/cpu_src/disasm_RV.v {1 {vlog -work work -sv +incdir+C:/KPU_OoOE/src/cpu_src -stats=none C:/KPU_OoOE/src/cpu_src/disasm_RV.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module disasm
+
+Top level modules:
+	disasm
+
+} {} {}} C:/KPU_OoOE/sim/alu-test/alu_tb.v {1 {vlog -work work -sv +incdir+C:/KPU_OoOE/src/cpu_src -stats=none {C:\KPU_OoOE\sim\alu-test\alu_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}} C:/KPU_OoOE/src/cpu_src/microcode_RV.v {1 {vlog -work work -sv +incdir+C:/KPU_OoOE/src/cpu_src -stats=none C:/KPU_OoOE/src/cpu_src/microcode_RV.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module microcode
+
+Top level modules:
+	microcode
+
+} {} {}} C:/KPU_OoOE/src/cpu_src/alu_RV.v {1 {vlog -work work -sv +incdir+C:/KPU_OoOE/src/cpu_src -stats=none C:/KPU_OoOE/src/cpu_src/alu_RV.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/KPU_OoOE/src/cpu_src/vedic_mult16x16.v {1 {vlog -work work -sv +incdir+C:/KPU_OoOE/src/cpu_src -stats=none C:/KPU_OoOE/src/cpu_src/vedic_mult16x16.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module vedic_mult16x16
+-- Compiling module vedic_mult8
+-- Compiling module vedic_mult4
+-- Compiling module vedic_mult2
+-- Compiling module ha
+
+Top level modules:
+	vedic_mult16x16
+
+} {} {}} C:/KPU_OoOE/src/cpu_src/sd_fifo.v {1 {vlog -work work -sv +incdir+C:/KPU_OoOE/src/cpu_src -stats=none C:/KPU_OoOE/src/cpu_src/sd_fifo.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module sd_fifo
+
+Top level modules:
+	sd_fifo
+
+} {} {}} C:/KPU_OoOE/src/cpu_src/vedic_mult32x32.v {1 {vlog -work work -sv +incdir+C:/KPU_OoOE/src/cpu_src -stats=none C:/KPU_OoOE/src/cpu_src/vedic_mult32x32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module vedic_mult32x32
+
+Top level modules:
+	vedic_mult32x32
+
+} {} {}}
